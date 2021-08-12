@@ -1,5 +1,5 @@
 # Wireless-Com-Selection-Combining
-Two types of wireless communication techniques are examined in this repo. The Selection Combination implementation can be found in sc.m and similarly, Maximum Ratio Combining implementation can be found in mrc.m.
+Two types of wireless communication techniques are examined in this repo. The Selection Combination MATLAB implementation can be found in sc.m and similarly, Maximum Ratio Combining MATLAB implementation can be found in mrc.m.
 
 ## Selection Combination (SC)
 Selection Combination (SC) is known as one of the receiver diversity techniques. The strongest signal is chosen from among the signals in SC. In other words, using the same channel with different antennas in the same branch as SC, the highest signal-to-noise ratio is selected among the signals and thus the obtained signal is optimized.
