@@ -3,6 +3,7 @@ Two types of wireless communication techniques are examined in this repo. The Se
 
 ## Selection Combination (SC)
 Selection Combination (SC) is known as one of the receiver diversity techniques. The strongest signal is chosen from among the signals in SC. In other words, using the same channel with different antennas in the same branch as SC, the highest signal-to-noise ratio is selected among the signals and thus the obtained signal is optimized.
+
 ![image](https://user-images.githubusercontent.com/74546805/129175346-bd628dc2-87be-4227-8bc3-e8f55bdeda17.png)
 
 
@@ -11,6 +12,7 @@ First of all, all the necessary parameters are defined. After that I set two for
 
 ## Maximum Ratio Combining (MRC)
 In MRC, unlike the SC, the output of the branches are summed and processed as one. Namely, the signals from each channel are added. It is expected that by using MRC, the average BER decreases.
+
 ![image](https://user-images.githubusercontent.com/74546805/129175376-e0d476f6-d1f5-431a-945e-9ba2af404976.png)
 
 
